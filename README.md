@@ -1,7 +1,7 @@
 # MercadoJusto
 Mercado Justo - Checkpoint 2 Projeto desenvolvido em Java para monitoramento e análise de preços em diferentes estabelecimentos, com o objetivo de identificar disparidades de valores em produtos essenciais.
 
-Nome dos Contribuintes - 
+Nome dos Contribuintes - HenryAlexandre01 - PedroDePaula01
 
 Funcionalidades
 Cadastro de Produtos: Registro de itens em uma rede de 6 mercados (3 Populares e 3 Centrais).
